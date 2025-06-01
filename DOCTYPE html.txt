@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Big Bang and Beyond</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>The Big Bang and Beyond</h1>
+    <p>A Journey Through the Origin of Our Universe</p>
+  </header>
+
+  <section id="bang">
+    <h2>0. The Big Bang</h2>
+    <p>The universe began from an extremely hot and dense state...</p>
+    <img src="images/bigbang.jpg" alt="Big Bang Illustration" />
+  </section>
+
+  <section id="nucleosynthesis">
+    <h2>1. The First 3 Minutes</h2>
+    <p>Formation of light elements like hydrogen and helium...</p>
+  </section>
+
+  <section id="cmb">
+    <h2>2. The Cosmic Microwave Background</h2>
+    <p>About 380,000 years later, the first light was released.</p>
+    <img src="images/cmb.jpg" alt="CMB Map" />
+  </section>
+
+  <section id="galaxies">
+    <h2>3. Galaxy Formation</h2>
+    <p>Stars and galaxies began to form hundreds of millions of years later...</p>
+  </section>
+
+  <section id="today">
+    <h2>4. Our Universe Today</h2>
+    <p>The universe continues to expand, accelerating due to dark energy.</p>
+  </section>
+
+  <footer>
+    <p>Project by [Your Name]. Images from NASA/ESA/Planck.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
