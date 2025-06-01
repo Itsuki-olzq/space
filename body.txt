@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: black;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+header {
+  text-align: center;
+  padding: 4rem;
+  background: linear-gradient(#000, #111);
+}
+section {
+  padding: 4rem;
+  border-bottom: 1px solid #333;
+}
+section img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 1rem;
+}
+footer {
+  background: #111;
+  padding: 2rem;
+  text-align: center;
+}
